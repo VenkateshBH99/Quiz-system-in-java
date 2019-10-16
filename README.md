@@ -1,1 +1,1 @@
-# Quiz-system-in-java
+# Quiz-system-in-Java
